@@ -35,6 +35,7 @@
 #ifdef HAVE_MISSING_H
 #include <missing.h>
 #endif
+#define ENABLE_LOGGING
 #include "libusb.h"
 #include "version.h"
 
